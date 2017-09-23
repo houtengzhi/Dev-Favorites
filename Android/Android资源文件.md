@@ -2,6 +2,7 @@
 
 #### View
 * [自定义View进阶系列(GcsSloop博客)](http://www.gcssloop.com/timeline)
+* [HenCoder Android 开发进阶:自定义View(扔物线博客)](http://hencoder.com/ui-1-1/)
 
 #### 动画
 * [Android样式的开发：ViewAnimation篇](http://keeganlee.me/post/android/20151003)
