@@ -3,6 +3,7 @@
 #### View
 * [GcsSloop博客：自定义View进阶系列](http://www.gcssloop.com/timeline)
 * [扔物线博客： HenCoder Android 开发进阶:自定义View](http://hencoder.com/ui-1-1/)
+* [Canvas drawText()文字居中](http://blog.csdn.net/zly921112/article/details/50401976)
 
 #### 事件分发
 * [GcsSloop博客：事件分发机制原理](http://www.gcssloop.com/customview/dispatch-touchevent-theory)
