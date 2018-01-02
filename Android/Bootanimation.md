@@ -1,6 +1,8 @@
-#### Windrunnerlihuan博客
+## 文章
 
-* [Android SurfaceFlinger 学习之路(三)----Android开机动画流程简述](http://windrunnerlihuan.com/2017/05/02/Android-SurfaceFlinger-学习之路-三-Android开机动画流程简述/)
+* [[Windrunnerlihuan博客] Android SurfaceFlinger 学习之路(三)----Android开机动画流程简述](http://windrunnerlihuan.com/2017/05/02/Android-SurfaceFlinger-学习之路-三-Android开机动画流程简述/)
+
+* [[老罗的Android之旅] Android系统的开机画面显示过程分析](http://blog.csdn.net/luoshengyang/article/details/7691321)
 
 
 ## Issues
