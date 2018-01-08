@@ -13,7 +13,7 @@
 
 
 ## 分析工具
-
+* [Android性能优化：使用TraceView](http://blog.csdn.net/u011240877/article/details/54347396)
 
 ### Issues
 #####
