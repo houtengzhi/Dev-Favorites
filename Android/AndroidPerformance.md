@@ -11,6 +11,7 @@
 * [[LooperJing简书] Android性能优化(七)——StrickMode严苛模式](https://www.jianshu.com/p/2ebc9363ea16)
 * [[LooperJing简书] Android性能优化(十)——布局优化](https://www.jianshu.com/p/c0e0cca14162)
 
+* [[腾讯Bugly] 你知道android的MessageQueue.IdleHandler吗?](https://zhuanlan.zhihu.com/p/30601168)
 
 ## 分析工具
 * [Android性能优化：使用TraceView](http://blog.csdn.net/u011240877/article/details/54347396)
