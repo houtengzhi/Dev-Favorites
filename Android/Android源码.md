@@ -16,6 +16,9 @@
 
 #### Android系统(Gityuan系列)(http://gityuan.com/android/)
 
+#### SurfaceFlinger
+* [Android SurfaceView 分析及 C/C++通过surface绘制UI](http://blog.csdn.net/alitter/article/details/38685739)
+
 #### TextView源码分析
 * [[老罗的Android之旅] Android控件TextView的实现原理](http://blog.csdn.net/luoshengyang/article/details/8636153)
 
