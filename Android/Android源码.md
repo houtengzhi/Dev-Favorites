@@ -24,6 +24,14 @@
 
 * [EditText密码框小圆点替换成其它符号](http://blog.csdn.net/jdsjlzx/article/details/25064867)
 
+
+#### PackageManagerService源码解析
+* [【Palance博客】Android app安装](http://palanceli.com/2016/10/23/2016/1024Installer2/)
+
+* [【深入理解Android卷二 全文-第四章】深入理解PackageManagerService](https://blog.csdn.net/innost/article/details/47253179)
+
+* [Android应用程序是如何安装的](https://guolei1130.github.io/2017/01/04/Android应用程序是如何安装的/)
+
 ## 源码编译调试
 * [Android Studio中调试Android源码](http://blog.csdn.net/murphykwu/article/details/52117907)
 
