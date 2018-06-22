@@ -14,10 +14,9 @@
 
 #### 注解
 * [深入理解Java注解类型(@Annotation)](https://blog.csdn.net/javazejian/article/details/71860633)
-
 * [【Trinea】公共技术点之 Java 注解 Annotation](http://a.codekk.com/detail/Android/Trinea/公共技术点之%20Java%20注解%20Annotation)
-
 * [Android 编译时注解 —— 语法详解](https://blog.csdn.net/gdutxiaoxu/article/details/70822023)
 * [【鸿洋博客】Android 如何编写基于编译时注解的项目](https://blog.csdn.net/lmj623565791/article/details/51931859)
+* [Android注解-编译时生成代码 (APT)](https://blog.csdn.net/a1018875550/article/details/52166916)
 
 ## Issues
