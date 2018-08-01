@@ -25,3 +25,6 @@ private  <V extends View> V findViewById(Object object, int id) {
 ```java
 btnGet = $(view, R.id.btn_get_regular_channels);
 ```
+
+##### 2. 详解Android中Intent对象与Intent Filter过滤匹配过程
+https://www.jb51.net/article/76528.htm
