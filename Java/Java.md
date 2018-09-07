@@ -9,7 +9,12 @@
 #### 反射
 
 * [Java反射以及在Android中的特殊应用](https://juejin.im/post/5a2c1c5bf265da431956334c)
+
+
+#### 代理
 * [Java代理以及在Android中的简单应用](https://juejin.im/post/5a2e4e9a51882559e2259ad3)
+
+* [Java动态代理机制详解（JDK 和CGLIB，Javassist，ASM）](https://blog.csdn.net/luanlouis/article/details/24589193)
 
 
 #### 注解
@@ -32,14 +37,17 @@
 
 #### 2. 动态代理、Hook、AOP、插件化技术的联系与区别
 链接：https://www.jianshu.com/p/480b2eddea9c
+
 动态代理三种实现方法：
- 1.JDK的动态代理：就是在程序运行的过程中，根据被代理的接口来动态生成代理类的class文 件，并加载运行的过程。
- 2.cglib动态代理：cglib封装了asm,可以在运行期动态生成新的class，以此来实现动态代理。
- 3.Javassist：Javassist是一个开源的分析、编辑和创建Java字节码的类库。
+
+1. JDK的动态代理：就是在程序运行的过程中，根据被代理的接口来动态生成代理类的class文 件，并加载运行的过程。
+2. cglib动态代理：cglib封装了asm,可以在运行期动态生成新的class，以此来实现动态代理。
+3. Javassist：Javassist是一个开源的分析、编辑和创建Java字节码的类库。
 
 AOP有两类实现方式：
- 1.运行时AOP:运行时动态生成子类字节码(Cglib)或代理类字节码(JDK动态代理)或直接修改字节码(Javassist、ASM、AspectJ)
- 2.编译时AOP:编译时，修改字节码(ASM、AspectJ)或生成代理类(APT)
+
+ 1. 运行时AOP:运行时动态生成子类字节码(Cglib)或代理类字节码(JDK动态代理)或直接修改字节码(Javassist、ASM、AspectJ)
+ 2. 编译时AOP:编译时，修改字节码(ASM、AspectJ)或生成代理类(APT)
 
 
 
