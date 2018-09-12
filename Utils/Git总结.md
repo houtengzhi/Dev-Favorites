@@ -9,3 +9,6 @@
 
 2. 保留一个commit的pick作为要执行的commit, 其它需要合并的commit的pick改为squash;
 
+##### 2. Git笔记(三)——[cherry-pick, merge, rebase]
+http://pinkyjie.com/2014/08/10/git-notes-part-3/
+
