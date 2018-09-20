@@ -9,9 +9,17 @@
 * [GcsSloop博客：事件分发机制原理](http://www.gcssloop.com/customview/dispatch-touchevent-theory)
 * [GcsSloop博客：事件分发机制详解](http://www.gcssloop.com/customview/dispatch-touchevent-source)
 
+#### 绘图篇
+* [【启舰博客】自定义控件之绘图篇（ 五）：drawText()详解](https://blog.csdn.net/harvic880925/article/details/50423762)
+* [【启舰博客】自定义控件之绘图篇（四）：canvas变换与操作](https://blog.csdn.net/harvic880925/article/details/39080931)
+
+* [各个击破搞明白PorterDuff.Mode](https://www.jianshu.com/p/d11892bbe055)
+
 #### 动画教程
 * [Android样式的开发：ViewAnimation篇](http://keeganlee.me/post/android/20151003)
 * [Android样式的开发：PropertyAnimation篇](http://keeganlee.me/post/android/20151026)
+
+* [Android ObjectAnimator源码不一样的分析](https://www.jianshu.com/p/b0e7c92ecb43)
 
 
 #### 动画实践
