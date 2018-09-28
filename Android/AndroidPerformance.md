@@ -13,6 +13,8 @@
 
 * [[腾讯Bugly] 你知道android的MessageQueue.IdleHandler吗?](https://zhuanlan.zhihu.com/p/30601168)
 
+* [【玉刚说】那些 Android 程序员必会的视图优化策略](https://mp.weixin.qq.com/s/ep-Assy2j_EOUW8uWUQfSQ)
+
 
 ## 内存优化
 * [Android内存泄漏查找和解决](https://blog.csdn.net/xyq046463/article/details/51769728)

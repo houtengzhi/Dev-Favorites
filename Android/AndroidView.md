@@ -15,6 +15,8 @@
 
 * [各个击破搞明白PorterDuff.Mode](https://www.jianshu.com/p/d11892bbe055)
 
+* [【HenCoder】 Android 开发进阶: 自定义 View 1-2 Paint 详解](https://hencoder.com/ui-1-2/)
+
 #### 动画教程
 * [Android样式的开发：ViewAnimation篇](http://keeganlee.me/post/android/20151003)
 * [Android样式的开发：PropertyAnimation篇](http://keeganlee.me/post/android/20151026)
