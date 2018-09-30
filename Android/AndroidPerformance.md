@@ -16,6 +16,14 @@
 * [【玉刚说】那些 Android 程序员必会的视图优化策略](https://mp.weixin.qq.com/s/ep-Assy2j_EOUW8uWUQfSQ)
 
 
+* [【工匠若水博客】Android应用开发性能优化完全分析](https://blog.csdn.net/yanbober/article/details/48394201)
+
+## UI优化
+* [【】Android性能优化(一)－绘制优化](http://czhzero.com/2017/02/07/performance-optimization-1/)
+
+* [【网易云音乐开发组】动画生万物](https://www.zhihu.com/people/cloudmuisc/posts)
+
+
 ## 内存优化
 * [Android内存泄漏查找和解决](https://blog.csdn.net/xyq046463/article/details/51769728)
 * [【豆沙包67简书】[译]Android内存泄漏的八种可能（上）](https://www.jianshu.com/p/ac00e370f83d)

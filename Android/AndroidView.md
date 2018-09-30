@@ -27,6 +27,10 @@
 #### 动画实践
 * [Android自绘动画实现与优化实战——以Tencent OS录音机波形动画为实例](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577211&idx=1&sn=2619c7df79f675e45e87891b7eb17669&scene=4#wechat_redirect)
 
+* [Android：自绘动画实践——以Tencent OS录音机波形为例](https://blog.csdn.net/drkcore/article/details/51822818)
+
+* [Android自绘控件开发与性能优化实践——以录音波浪动画为例](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0808/8357.html)
+
 
 ##### 资源类
 ###### KEEGAN小钢(http://keeganlee.me/archive)
