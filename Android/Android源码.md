@@ -32,6 +32,11 @@
 
 * [Android应用程序是如何安装的](https://guolei1130.github.io/2017/01/04/Android应用程序是如何安装的/)
 
+#### 事件分发机制
+* [Android按键分发流程之java层按键传递](https://blog.csdn.net/chenweiaiyanyan/article/details/72866796)
+
+* [Android KeyEvent 点击事件分发处理流程（一）](https://www.jianshu.com/p/2f28386706a0)
+
 ## 源码编译调试
 * [Android Studio中调试Android源码](http://blog.csdn.net/murphykwu/article/details/52117907)
 

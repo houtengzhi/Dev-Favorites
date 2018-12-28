@@ -19,3 +19,10 @@ demo：修改apk名称
 * [Gradle 使用指南 -- Gradle Task](https://www.heqiangfly.com/2016/03/13/development-tool-gradle-task/)
 
 * [Gradle 使用指南 -- Gradle 生命周期](https://www.heqiangfly.com/2016/03/18/development-tool-gradle-lifecycle/)
+
+#### Gradle源码解析
+* [从Android Plugin源码开始彻底理解gradle构建：初识AndroidDSL（一）](https://blog.csdn.net/verymrq/article/details/80358111)
+
+* [从Android Plugin源码开始彻底理解gradle构建：Extension（二）](https://blog.csdn.net/verymrq/article/details/80426594)
+
+* [Android Gradle Plugin 源码阅读与编译](https://fucknmb.com/2017/06/01/Android-Gradle-Plugin%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E4%B8%8E%E7%BC%96%E8%AF%91/#more)
