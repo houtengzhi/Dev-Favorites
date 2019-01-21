@@ -1,8 +1,6 @@
-## MediaPlayer源码解析
+## 教程
 
-##### 何俊林博客
-
-* [Android Multimedia框架总结（四）MediaPlayer中从Java层到C++层类关系及prepare及之后其他过程](http://blog.csdn.net/hejjunlin/article/details/52420803)
+* [【Runoob】C++教程](http://www.runoob.com/cplusplus/cpp-tutorial.html)
 
 
 
