@@ -14,6 +14,10 @@
 
 * [[老罗的Android之旅] Android深入浅出之Binder机制](http://www.cnblogs.com/innost/archive/2011/01/09/1931456.html)
 
+* [【Weishu简书】Binder学习指南](https://www.jianshu.com/p/af2993526daf)
+
+* [【张磊博客】写给 Android 应用工程师的 Binder 原理剖析](https://www.jianshu.com/p/429a1ff3560c)
+
 #### Android系统(Gityuan系列)(http://gityuan.com/android/)
 
 #### SurfaceFlinger
