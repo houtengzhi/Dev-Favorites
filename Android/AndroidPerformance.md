@@ -30,6 +30,10 @@
 * [【豆沙包67简书】[译]Android防止内存泄漏的八种方法（下）](https://www.jianshu.com/p/c5ac51d804fa)
 * [【技术小黑屋】系统剖析Android中的内存泄漏](https://droidyue.com/blog/2016/11/23/memory-leaks-in-android/)
 
+## ANR
+* [应用与系统稳定性第一篇---ANR问题分析的一般套路](https://www.jianshu.com/p/18f16aba79dd)
+* [深入理解Android中的SharedPreferences](https://blog.csdn.net/u012619640/article/details/50940074)
+
 ## 分析工具
 * [Android性能优化：使用TraceView](http://blog.csdn.net/u011240877/article/details/54347396)
 
