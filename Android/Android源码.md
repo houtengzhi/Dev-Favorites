@@ -41,6 +41,10 @@
 
 * [Android KeyEvent 点击事件分发处理流程（一）](https://www.jianshu.com/p/2f28386706a0)
 
+#### 消息机制
+* [【Gityuan博客】Android消息机制1-Handler(Java层)](http://gityuan.com/2015/12/26/handler-message-framework/)
+* [【Gityuan博客】Android消息机制2-Handler(Native层)](http://gityuan.com/2015/12/27/handler-message-native/)
+
 ## 源码编译调试
 * [Android Studio中调试Android源码](http://blog.csdn.net/murphykwu/article/details/52117907)
 
