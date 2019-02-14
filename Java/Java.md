@@ -24,6 +24,9 @@
 * [【鸿洋博客】Android 如何编写基于编译时注解的项目](https://blog.csdn.net/lmj623565791/article/details/51931859)
 * [Android注解-编译时生成代码 (APT)](https://blog.csdn.net/a1018875550/article/details/52166916)
 
+#### 并发
+* ["聊胜于无",浅析Java中的原子操作](https://cloud.tencent.com/developer/article/1124658)
+
 ## Issues
 
 #### 1. java annotation 中 SOURCE 和 CLASS 的区别？
