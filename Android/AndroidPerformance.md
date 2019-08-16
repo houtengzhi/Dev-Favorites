@@ -18,6 +18,8 @@
 
 * [【工匠若水博客】Android应用开发性能优化完全分析](https://blog.csdn.net/yanbober/article/details/48394201)
 
+* [【hukai.me】Android性能优化典范 - 第1季](http://hukai.me/android-performance-patterns/)
+
 ## UI优化
 * [【】Android性能优化(一)－绘制优化](http://czhzero.com/2017/02/07/performance-optimization-1/)
 
@@ -38,6 +40,8 @@
 
 ## 分析工具
 * [Android性能优化：使用TraceView](http://blog.csdn.net/u011240877/article/details/54347396)
+
+* [【Gityuan】性能工具Systrace](http://gityuan.com/2016/01/17/systrace/)
 
 ### Issues
 #####
