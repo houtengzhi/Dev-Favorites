@@ -26,6 +26,7 @@
 
 #### 并发
 * ["聊胜于无",浅析Java中的原子操作](https://cloud.tencent.com/developer/article/1124658)
+* [理解 Java volatile 关键字](https://lotabout.me/2019/Java-volatile-keyword/)
 
 ## Issues
 
