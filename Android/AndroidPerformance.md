@@ -20,6 +20,8 @@
 
 * [【hukai.me】Android性能优化典范 - 第1季](http://hukai.me/android-performance-patterns/)
 
+* [【weishu知乎专栏】[译]Android UI 性能优化](https://zhuanlan.zhihu.com/p/27065828)
+
 ## UI优化
 * [【】Android性能优化(一)－绘制优化](http://czhzero.com/2017/02/07/performance-optimization-1/)
 
@@ -42,6 +44,8 @@
 * [Android性能优化：使用TraceView](http://blog.csdn.net/u011240877/article/details/54347396)
 
 * [【Gityuan】性能工具Systrace](http://gityuan.com/2016/01/17/systrace/)
+
+* [【androidperformance】Systrace 基础知识 -- Systrace 简介](https://www.androidperformance.com/2019/05/28/Android-Systrace-About/)
 
 ### Issues
 #####
