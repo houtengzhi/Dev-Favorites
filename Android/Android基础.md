@@ -7,6 +7,9 @@
 
 * [Activity 的 Task 以及 launchMode 研究](http://android.jobbole.com/84446/)
 
+### Fragment
+* [Fragment全解析系列（二）：正确的使用姿势](https://www.jianshu.com/p/fd71d65f0ec6)
+
 
 ### 序列化
 * [Android中传递对象的三种方法](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0104/2256.html)
