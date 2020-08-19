@@ -6,6 +6,7 @@
 * [Activity生命周期和启动模式](http://wuxiaolong.me/2015/11/01/Activity/)
 
 * [Activity 的 Task 以及 launchMode 研究](http://android.jobbole.com/84446/)
+* [Android 中的 Activity Launch Mode 详解](https://androidperformance.com/2019/09/01/Android-Activity-Lunch-Mode/)
 
 ### Fragment
 * [Fragment全解析系列（二）：正确的使用姿势](https://www.jianshu.com/p/fd71d65f0ec6)
