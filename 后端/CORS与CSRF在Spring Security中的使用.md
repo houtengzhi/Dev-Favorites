@@ -20,12 +20,12 @@ CORS跨域资源分享，是一种机制，通过在HTTP响应头中加入特定
 
 |Header|	含义	|例子|
 |:---:|---|---|
-|Access-Control-Allow-Origin  |  指定了允许访问该资源的外域 URI  |  https://mozilla.org或者*|
+|Access-Control-Allow-Origin  |  指定了允许访问该资源的外域 URI  |  https://mozilla.org或者* |
 |Access-Control-Expose-Headers	|让服务器把允许浏览器访问的头放入白名单 | X-My-Custom-Header, X-Another-Custom-Header  | 
 |Access-Control-Max-Age  | 指定了preflight请求的结果能够被缓存多久|	
 |Access-Control-Allow-Credentials  |  当浏览器的 credentials 设置为 true 时是否允许浏览器读取 response 的内容  |  true  |
 |  Access-Control-Allow-Methods	  |  允许哪些方法  |  GET、POST  |
-|  Access-Control-Allow-Methods	  |  允许哪些Header| 	
+|  Access-Control-Allow-Methods	  |  允许哪些Header|  | 	
 代码非常简单，有现成的两种方式
 
 **SpringMVC**
